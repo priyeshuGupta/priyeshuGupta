@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyeshu
-- 👀 I’m interested in Chegg 
+- 👀 I’m interested in LLM Training 
 - 🌱 I’m currently learning Mathematics
 
 <!---
